@@ -1,0 +1,17 @@
+.presentacion{
+
+font-size: 18px;
+
+}
+#color{
+
+    background-color: #0000;
+}
+#color:hover{
+
+    background-color: #0000ff;
+}
+.class{
+    background-color: #0000;
+    color: #0000;
+}
